@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Book Inventory Manager\bin\Debug\Book Inventory Manager.exe.config
+C:\Users\HP\source\repos\Book Inventory Manager\bin\Debug\Book Inventory Manager.exe
+C:\Users\HP\source\repos\Book Inventory Manager\bin\Debug\Book Inventory Manager.pdb
+C:\Users\HP\source\repos\Book Inventory Manager\obj\Debug\Book Inventory Manager.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Book Inventory Manager\obj\Debug\Book Inventory Manager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Book Inventory Manager\obj\Debug\Book Inventory Manager.exe
+C:\Users\HP\source\repos\Book Inventory Manager\obj\Debug\Book Inventory Manager.pdb
